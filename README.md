@@ -1,5 +1,4 @@
 # oracle-code-card
-Oracle Code Card wifi configuration
 
 
 To configure a Wi-Fi connection for an ESP-12F module using the Arduino IDE, you can follow these steps:
